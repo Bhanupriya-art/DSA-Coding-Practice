@@ -8,3 +8,14 @@ This repository is aimed at helping developers improve their understanding and i
 
 Feel free to explore the code, suggest improvements, or contribute your own implementations!
 
+## Contributing
+
+Contributions are welcome! If you'd like to improve the animation, add new features, or fix bugs, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/improvement`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature/improvement`).
+6. Create a new Pull Request.
+
