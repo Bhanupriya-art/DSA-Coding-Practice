@@ -8,7 +8,7 @@ This repository is aimed at helping developers improve their understanding and i
 
 Feel free to explore the code, suggest improvements, or contribute your own implementations!
 
-## Contributing
+## Contribution
 
 Contributions are welcome! If you'd like to improve the animation, add new features, or fix bugs, please follow these steps:
 
