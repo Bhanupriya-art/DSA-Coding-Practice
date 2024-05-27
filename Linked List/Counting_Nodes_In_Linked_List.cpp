@@ -4,7 +4,7 @@ using namespace std;
 struct Node {
     int data;
     Node *next;
-}*first=NULL;
+}*first=NULL,*second=NULL;
 
 void create(int A[],int n){
     int i;
