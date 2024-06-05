@@ -1,10 +1,10 @@
 # DSA Coding Practice
 
 ## Table of Content
-- (Arrays ADT)
-- (Arrays Representation)
-- (Essential C and C++ files)
-- (Linked List)
+- [Arrays ADT](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Arrays%20ADT)
+- [Arrays Representation](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Arrays%20Representation)
+- [Essential C and C++ files](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Essential%20C%20and%20C%2B%2B%20files)
+- [Linked List](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Linked%20List)
 
 Welcome to my Data Structures and Algorithms (DSA) coding practice repository! Here you'll find various implementations of common data structures and algorithms in different programming languages.
 
