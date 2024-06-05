@@ -1,5 +1,11 @@
 # DSA Coding Practice
 
+## Table of Content
+- (Arrays ADT)
+- (Arrays Representation)
+- (Essential C and C++ files)
+- (Linked List)
+
 Welcome to my Data Structures and Algorithms (DSA) coding practice repository! Here you'll find various implementations of common data structures and algorithms in different programming languages.
 
 ## Introduction
