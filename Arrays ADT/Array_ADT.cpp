@@ -1,4 +1,4 @@
-//IN C++ LANGUAGE
+// C++ Language
 
 #include<iostream>
 using namespace std;
