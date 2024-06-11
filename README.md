@@ -5,6 +5,12 @@
 - [Arrays Representation](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Arrays%20Representation)
 - [Essential C and C++ files](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Essential%20C%20and%20C%2B%2B%20files)
 - [Linked List](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Linked%20List)
+- [Matrices](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Matrices)
+- [Recursion](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Recursion)
+- [Sparse Matrix And Polynomial Representation](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Sparse%20Matrix%20And%20Polynomial%20Representation)
+- [Stack](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Stack)
+- [Strings](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Strings)
+- [Vectors](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Vectors)
 
 Welcome to my Data Structures and Algorithms (DSA) coding practice repository! Here you'll find various implementations of common data structures and algorithms in different programming languages.
 
