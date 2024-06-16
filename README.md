@@ -11,6 +11,7 @@
 - [Stack](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Stack)
 - [Strings](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Strings)
 - [Vectors](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Vectors)
+- [Queue](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Queue)
 
 Welcome to my Data Structures and Algorithms (DSA) coding practice repository! Here you'll find various implementations of common data structures and algorithms in different programming languages.
 
