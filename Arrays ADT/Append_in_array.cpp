@@ -1,3 +1,4 @@
+//Append_in_array
 #include <iostream>
 using namespace std;
 
@@ -6,6 +7,7 @@ struct Array{
     int size;
     int length;
 };
+
 void display(struct Array arr){
     int i;
     for(i=0;i<arr.length;i++){
