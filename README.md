@@ -16,6 +16,7 @@
 - [Binary Search Trees](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Binary%20Search%20Tree)
 - [AVL Trees](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/AVL%20Trees)
 - [Heap](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Heap)
+- [Sorting Techniques](https://github.com/Bhanupriya-art/DSA-Coding-Practice/tree/main/Sorting%20Techniques)
 
 Welcome to my Data Structures and Algorithms (DSA) coding practice repository! Here you'll find various implementations of common data structures and algorithms in different programming languages.
 
