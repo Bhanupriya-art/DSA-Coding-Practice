@@ -39,3 +39,8 @@ Contributions are welcome! If you'd like to improve the animation, add new featu
 5. Push to the branch (`git push origin feature/improvement`).
 6. Create a new Pull Request.
 
+
+
+<br><br>This Course is designed by Mr.Abdul Bari Sir. The Course Link is available below.<br>
+[Click Here](https://www.udemy.com/course/datastructurescncpp/learn/lecture/15298178#overview)
+
