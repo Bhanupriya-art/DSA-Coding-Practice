@@ -41,6 +41,6 @@ Contributions are welcome! If you'd like to improve the animation, add new featu
 
 
 
-<br><br>This Course is designed by Mr.Abdul Bari Sir. The Course Link is available below.<br>
+<br><br>This Course is designed by Mr.Abdul Bari Sir. The Course Link is available below. It is available in udemy<br>
 [Click Here](https://www.udemy.com/course/datastructurescncpp/learn/lecture/15298178#overview)
 
